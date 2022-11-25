@@ -43,3 +43,14 @@ body { font-family: 'Roboto', sans-serif; }
   color: purple;
   cursor: pointer;
 }
+
+@media (max-width: 800px) {
+  .content {
+    flex-direction: column;
+    height: auto;
+  }
+
+  .card {
+    margin: 15px;
+  }
+}
