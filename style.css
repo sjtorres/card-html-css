@@ -40,4 +40,5 @@ body { font-family: 'Roboto', sans-serif; }
   background: none;
   border: none;
   color: purple;
+  cursor: pointer;
 }
